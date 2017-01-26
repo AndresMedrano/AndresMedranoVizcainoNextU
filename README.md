@@ -1,6 +1,4 @@
-# Bienvenido a mi repositorio donde se subira proyectos de Next University
-# AndresMedranoVizcainoNextU
+# Evaluación Final Fundamentos HTML
+# Andres Medrano Vizcaino en NextU
 Proyectos Next University
 
-[Mi Sitio Web Persona] (http://andresmedrano.softech.com.ec)
-[Mi Sitio Web Empresarial] (http://www.softech.com.ec)
